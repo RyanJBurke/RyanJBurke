@@ -26,7 +26,7 @@ Feel free to browse through my GitHub projects and reach out for collaborations 
     - Environmental Studies (concentration in Green Business)
 
 ## Projects 
-- Senior Capstone Project: Used SQL, Excel, and GIS to analyze urban heat and environmental injustice in the Southcrest neighborhood in San Diego. [My Senior Capstone Project](https://RyanJBurke.github.io/RyanJBurke/SeniorCapstone_UrbanReforestation.pdf)
+- Senior Capstone Project: Used SQL, Excel, and GIS to analyze urban heat and environmental injustice in the Southcrest neighborhood in San Diego. [My Senior Capstone Project](https://github.com/RyanJBurke/RyanJBurke/blob/main/SeniorCapstone_UrbanReforestation.pdf)
 
 
 ## Contact Me
