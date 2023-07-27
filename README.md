@@ -26,7 +26,8 @@ Feel free to browse through my GitHub projects and reach out for collaborations 
     - Environmental Studies (concentration in Green Business)
 
 ## Projects 
-- Senior Capstone Project: Used SQL, Excel, and GIS to analyze urban heat and environmental injustice in the Southcrest neighborhood in San Diego. [My Senior Capstone Project](https://github.com/RyanJBurke/RyanJBurke/blob/main/SeniorCapstone_UrbanReforestation.pdf)
+- [Senior Capstone Project](https://github.com/RyanJBurke/RyanJBurke/blob/main/SeniorCapstone_UrbanReforestation.pdf): Used SQL, Excel, and GIS to analyze urban heat and environmental injustice in the Southcrest neighborhood in San Diego. 
+- [Clean-Tech Paten Analysis](https://github.com/RyanJBurke/RyanJBurke/blob/main/Knit_Patent_v1.pdf): Used R to clean data and perform preliminary analysis on patents registered under the Y02 scheme, registering patents as new Climate Change mitigation technology. 
 
 
 ## Contact Me
