@@ -20,17 +20,17 @@ Feel free to browse through my GitHub projects and reach out for collaborations 
 <img src="https://www.technology.pitt.edu/sites/default/files/icon-graphics/1200px-Microsoft_Excel_2013_logo.svg_.png" width="50" height="50">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/ArcGIS_logo.png/600px-ArcGIS_logo.png" width="50" height="50">
 
-
+## Projects 
+- [Senior Capstone Project](https://github.com/RyanJBurke/RyanJBurke/blob/main/SeniorCapstone_UrbanReforestation.pdf): Used SQL, Excel, and GIS to analyze urban heat and environmental injustice in the Southcrest neighborhood in San Diego. 
+- [Exploratory Analysis (Clean-Tech Patens)](https://github.com/RyanJBurke/RyanJBurke/blob/main/Knit_Patent_v1.pdf): Used R to clean data and perform preliminary analysis on patents registered under the Y02 scheme, registering patents as new Climate Change mitigation technology.
+- [Time Series Analysis (Emission Data)](https://github.com/RyanJBurke/RyanJBurke/blob/main/Time_Series_Analysis_Emissions.pdf): Used Excel and R for data cleaning and forecasting CO2 emissions from the U.S. energy industry, considering the growth of renewable energy and global warming, by employing time-series analysis methods such as ARIMA and VAR.
+- [Spatial Analysis (Environmental Justice)](https://github.com/RyanJBurke/RyanJBurke/blob/main/GIS_FinalProj.pdf): Used GIS for spatial analysis of San Francisco to identify the relationships between affordable housing, tree coverage, proximity to parks, pollution levels, and vacant properties, aiming to improve housing security and environmental justice through the potential conversion of vacant properties into affordable housing units.
 
 ## Education 
 - **Santa Clara University**
     - Economics (concentration in Data Analytics)
     - Environmental Studies (concentration in Green Business)
 
-## Projects 
-- [Senior Capstone Project](https://github.com/RyanJBurke/RyanJBurke/blob/main/SeniorCapstone_UrbanReforestation.pdf): Used SQL, Excel, and GIS to analyze urban heat and environmental injustice in the Southcrest neighborhood in San Diego. 
-- [Clean-Tech Paten Analysis](https://github.com/RyanJBurke/RyanJBurke/blob/main/Knit_Patent_v1.pdf): Used R to clean data and perform preliminary analysis on patents registered under the Y02 scheme, registering patents as new Climate Change mitigation technology.
-- [Time Series Analysis](https://github.com/RyanJBurke/RyanJBurke/blob/main/Time_Series_Analysis_Emissions.pdf): Used Excel and R for data cleaning and forecasting CO2 emissions from the U.S. energy industry, considering the growth of renewable energy and global warming, by employing time-series analysis methods such as ARIMA and VAR.
 
 
 ## Contact Me
