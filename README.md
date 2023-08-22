@@ -27,7 +27,8 @@ Feel free to browse through my GitHub projects and reach out for collaborations 
 
 ## Projects 
 - [Senior Capstone Project](https://github.com/RyanJBurke/RyanJBurke/blob/main/SeniorCapstone_UrbanReforestation.pdf): Used SQL, Excel, and GIS to analyze urban heat and environmental injustice in the Southcrest neighborhood in San Diego. 
-- [Clean-Tech Paten Analysis](https://github.com/RyanJBurke/RyanJBurke/blob/main/Knit_Patent_v1.pdf): Used R to clean data and perform preliminary analysis on patents registered under the Y02 scheme, registering patents as new Climate Change mitigation technology. 
+- [Clean-Tech Paten Analysis](https://github.com/RyanJBurke/RyanJBurke/blob/main/Knit_Patent_v1.pdf): Used R to clean data and perform preliminary analysis on patents registered under the Y02 scheme, registering patents as new Climate Change mitigation technology.
+- [Time Series Analysis](https://github.com/RyanJBurke/RyanJBurke/blob/main/Time_Series_Analysis_Emissions.pdf): Used Excel and R for data cleaning and forecasting CO2 emissions from the U.S. energy industry, considering the growth of renewable energy and global warming, by employing time-series analysis methods such as ARIMA and VAR.
 
 
 ## Contact Me
