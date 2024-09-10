@@ -2,15 +2,9 @@
 
 ## I'm Ryan Burke 
 
-I am a recent graduate enthusiastic about data analytics and driven by a strong interest in Clean Technology. As an Economics major with a concentration in Data Analytics and Green Business, I’ve developed a robust skill set in R, SQL, Excel, and Tableau, enabling me to derive meaningful insights from complex data and proficiently perform forecasting tasks in R.
+In undergrad, I was involved in various academic projects learning Geospacial Analysis, R for Statistics, and Data Analytics. I am inspired by the intersection of economics, sustainability, and environmental justice. Currently, I work as an Analytics Engineer at a software company serving the Biotech companies. I'll be using github to learn programing and to practice my data skills.
 
-My academic journey at Santa Clara University has been a blend of rigorous data analysis and a deeper understanding of environmentally sustainable business practices. This unique fusion fuels my aspiration to apply data-driven decision-making in the clean tech industry, creating sustainable solutions for our planet.
-
-I’ve been involved in various academic projects focusing on GIS and data analytics, always aiming to correlate economic models with sustainable business strategies. Currently, I’m seeking opportunities to contribute this multidisciplinary approach to a data analytics role in the clean tech sector.
-
-When I'm not crunching numbers or exploring data sets, you can find me soaking in the great outdoors, hiking, camping, or simply enjoying a book at a coffee shop.
-
-Feel free to browse through my GitHub projects and reach out for collaborations or even a friendly chat!
+Feel free to browse through my GitHub projects and please reach out if you want to connect!
 
 ## Skills
 
@@ -30,7 +24,6 @@ Feel free to browse through my GitHub projects and reach out for collaborations 
 - **Santa Clara University**
     - Economics (concentration in Data Analytics)
     - Environmental Studies (concentration in Green Business)
-
 
 
 ## Contact Me
