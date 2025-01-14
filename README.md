@@ -10,7 +10,7 @@ Feel free to browse through my GitHub projects and please reach out if you want 
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1200px-R_logo.svg.png" width="50" height="50">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://db.cs.uni-tuebingen.de/teaching/ws2223/sql-is-a-programming-language/logo.svg" width="50" height="50">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Emblem.png" width="80" height="50">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://seeklogo.com/images/P/power-bi-microsoft-logo-E4FC8DE4A9-seeklogo.com.png" width="80" height="50">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://www.technology.pitt.edu/sites/default/files/icon-graphics/1200px-Microsoft_Excel_2013_logo.svg_.png" width="50" height="50">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/ArcGIS_logo.png/600px-ArcGIS_logo.png" width="50" height="50">
 
