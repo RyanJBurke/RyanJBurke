@@ -2,7 +2,7 @@
 
 ## I'm Ryan Burke 
 
-In undergrad, I was involved in various academic projects learning Geospacial Analysis, R for Statistics, and Data Analytics. I am inspired by the intersection of economics, sustainability, and environmental justice. Currently, I work as an Analytics Engineer at a software company serving the Biotech companies. I'll be using github to learn programing and to practice my data skills.
+In undergrad, I was involved in various academic projects learning Geospacial Analysis, R for Statistics, and Data Analytics. I am inspired by the intersection of economics, sustainability, and environmental justice. Currently, I work as an Analytics Engineer at a software company serving the Biotech companies. I'll be using github to learn new languages and to practice my data skills.
 
 Feel free to browse through my GitHub projects and please reach out if you want to connect!
 
