@@ -2,7 +2,7 @@
 
 ## I'm Ryan Burke 
 
-Currently, I work as an Analytics Engineer at a software company serving the Biotech companies. I'll be using github to learn.
+Currently, I work as an Analytics Engineer at a software company serving the Biotech companies.
 
 Feel free to connect on [linkedin](https://www.linkedin.com/in/rburke123/)
 
