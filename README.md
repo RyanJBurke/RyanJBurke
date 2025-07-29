@@ -14,6 +14,5 @@ Feel free to connect on [linkedin](https://www.linkedin.com/in/rburke123/)
 
 
 ## Contact Me
-- Email: [Rburke4747@gmail.com](mailto:rburke4747@gmail.com)
 - LinkedIn: [linkedin.com/in/rburke123](https://www.linkedin.com/in/rburke123/)
 
